@@ -1,4 +1,4 @@
-# Telot OTP (Beta)
+# Telot (Beta) [Visit Site](https://dashboard.telot.site)
 
 **Telot** is a secure, cost-effective OTP verification service powered by Telegram bots — built for developers who want reliable verification without SMS costs.
 
