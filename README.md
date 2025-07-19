@@ -40,7 +40,7 @@ Telot is in **beta**, but it already supports:
 - **Resend logic**: Reuse valid codes and get metadata on expiry
 - **Telegram-native flow**: No need for phone gateways or message queues
 
-Visit the [docs](https://telot.site) for usage details and API integration.
+Login and see [docs](https://dashboard.telot.site) for usage details and API integration.
 
 ---
 
